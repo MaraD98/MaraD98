@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Mara
+#### Desarrolladora Full-Stack Jr.
+![Desarrolladora Full-Stack Jr.](https://i.pinimg.com/564x/1a/12/04/1a120470d41fcc959b75bc5de195ce6d.jpg)
 
-<!--
-**MaraD98/MaraD98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy estudiante de programación, actualmente enfocada en el desarrollo Web, pero tambien me gusta crear videojuegos, me encanta codear y crear proyectos que sean funcionales y visualmente atractivos para una mejor experiencia de usuario.
+Soy entusiasta, me gusta aprender cada día algo mas que me aporte y ayude a lograr mis objetivos, soy apasionada e hiperactiva. En este momento me encuentro en busca de mi primer trabajo que me brinde la oportunidad de crecer y mejorar mis habilidades. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades y Tecnologías: 
+JAVA / REACT / JS / HTML / CSS / C++ / C# / TS / GIT / GITHUB / BOOTSTRAP / VSCODE / VS2022
+
+- 🔭 Estoy trabajando en esta página. 
+
+
+
+
+
+
+
+
