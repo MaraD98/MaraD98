@@ -1,6 +1,5 @@
 ### Hola 👋, Mi nombre es Mara
 #### Desarrolladora Full-Stack Jr.
-![Desarrolladora Full-Stack Jr.]
 
 ![01e979e7ea349aa25f784e56b36a62eb](https://user-images.githubusercontent.com/84547390/197927540-7851647d-4b5e-4f98-b119-0508fbe2a73f.gif)
 
